@@ -18,4 +18,5 @@ export const authConfig = {
     },
   },
   providers: [],
+  secret: 'bonjour',
 } satisfies NextAuthConfig;
